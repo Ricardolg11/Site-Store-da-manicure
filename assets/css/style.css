@@ -205,6 +205,9 @@ ul {
 }
 /* MEDIA QUERY NAVBAR */
 @media (max-width: 960px) {
+    body {
+        position: static;
+    }
     .nav {
         position: absolute;
         top: 50px;
