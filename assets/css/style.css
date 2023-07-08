@@ -204,7 +204,7 @@ ul {
     border-radius: 8px;
 }
 /* MEDIA QUERY NAVBAR */
-@media (max-width: 960px) {
+@media (max-width: 1090px) {
     body {
         position: static;
     }
@@ -726,7 +726,7 @@ ul {
         flex-basis: 50%;
     }
 }
-@media (min-width: 960px){
+@media (min-width: 1090px){
     .nav__toggle{
         display: none;
     }
