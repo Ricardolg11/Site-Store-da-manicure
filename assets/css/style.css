@@ -156,6 +156,7 @@ ul {
 }
 /* hHEADER MENU */
 .header {
+    position: static;
     width: 100%;
     padding: 1rem;
 }
@@ -203,6 +204,7 @@ ul {
     background-color: var(--primary-color-alt);
     border-radius: 8px;
 }
+
 /* MEDIA QUERY NAVBAR */
 @media (max-width: 1090px) {
     body {
@@ -727,6 +729,11 @@ ul {
     }
 }
 @media (min-width: 1090px){
+
+    body {
+        position: static;
+    }
+
     .nav__toggle{
         display: none;
     }
@@ -761,6 +768,10 @@ ul {
     }
 }
 @media (min-width: 1024px){
+    body {
+        position: static;
+    }
+
     .hero__slide-text h1, .hero__slide-text span{
         font-size: 160px;
     }
