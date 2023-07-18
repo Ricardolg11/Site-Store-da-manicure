@@ -13,10 +13,10 @@
     --white-color: #ffffff;
 
     /*---------------FONT  AND TYPOGRAPHY-------------------*/
-    --font-body: "Raleway", sans-serif;
+    --font-body: "Sans-serif", sans-serif;
     --font-title: "Anton", sans-serif;
     --font-cursive: "Satisfy", cursive;
-    --big-font-size: 3rem; /*48px*/
+    --big-font-size: 2.5rem; /*48px*/
     --h1-font-size: 2.25rem; /*36px*/
     --h2-font-size: 1.5rem; /*24px*/
     --h3-font-size: 1.25rem; /*20px*/
@@ -345,6 +345,7 @@ ul {
 .offer__item:hover {
     border: 1px solid var(--black-color);
 }
+
 .offer__item .offer__img {
     height: 200px;
     display: flex;
