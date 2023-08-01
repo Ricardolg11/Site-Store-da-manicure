@@ -56,7 +56,7 @@ html {
 }
 
 body {
-    position: static;
+    position: absolute;
     background-color: var(--white-color);
     font-family: var(--font-body);
     font-size: var(--normal-font-size);
