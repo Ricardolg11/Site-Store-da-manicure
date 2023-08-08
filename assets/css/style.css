@@ -63,6 +63,8 @@ body {
     overflow-x: hidden;
 }
 
+
+
 a {
     text-decoration: none;
 }
@@ -205,6 +207,10 @@ ul {
     border-radius: 8px;
 }
 
+.show-menu{
+    opacity: 0;
+}
+
 /* MEDIA QUERY NAVBAR */
 @media (max-width: 1090px) {
     body {
@@ -232,6 +238,7 @@ ul {
         padding: 15px 0;
     }
     .show-menu {
+        opacity: 100%;
         width: 50%;
     }
 }
