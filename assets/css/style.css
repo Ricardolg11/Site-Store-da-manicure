@@ -404,7 +404,6 @@ ul {
     margin: var(--mb-3) 0;
 }
 .service__content {
-   
     grid-template-columns: 1fr;
 }
 .service__item {
@@ -741,7 +740,6 @@ ul {
     body {
         position: static;
     }
-
     .nav__toggle{
         display: none;
     }
@@ -761,7 +759,6 @@ ul {
         background-color: var(--primary-color-alt);
         border-radius: 10px;
     }
- 
     .service__item span{
         padding: 1rem;
     }
