@@ -285,6 +285,7 @@ ul {
     text-align: center;
 }
 .hero__slide-img img {
+    transition: 1s;
     width: 450px;
 }
 /* ENVIRONMENT */
@@ -681,6 +682,15 @@ ul {
     .two{
         display: flex;
         justify-content: space-between;
+    }
+
+}
+
+@media (max-width: 860px){
+
+    .hero__slide-img img {
+        transition: 1s;
+        width: 250px;
     }
 }
 @media (min-width: 860px){
