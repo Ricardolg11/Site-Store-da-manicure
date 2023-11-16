@@ -772,6 +772,7 @@ ul {
         flex-basis: 50%;
     }
 }
+
 @media (min-width: 1090px){
 
     body {
@@ -809,6 +810,7 @@ ul {
         grid-template-columns: repeat(4, 1fr);
     }
 }
+
 @media (min-width: 1024px){
     body {
         position: static;
