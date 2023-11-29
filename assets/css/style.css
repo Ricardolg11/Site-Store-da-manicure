@@ -211,9 +211,11 @@ ul {
 
 /* MEDIA QUERY NAVBAR */
 @media (max-width: 1090px) {
+
     body {
         position: static;
     }
+    
     .nav {
         position: absolute;
         top: 50px;
@@ -721,6 +723,7 @@ ul {
 }
 
 @media (min-width: 860px){
+
     .environment__itens{
         grid-template-columns: repeat(4, 1fr);
         align-items: center;
@@ -812,6 +815,7 @@ ul {
 }
 
 @media (min-width: 1024px){
+
     body {
         position: static;
     }
