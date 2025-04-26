@@ -1,4 +1,4 @@
-# **Store da Manicure - Site de Beleza e Cuidados com as Unhas**  
+# **Store da Manicure - Site de Produtos sobre Cuidados com as Unhas**  
 
 
 Um site moderno e responsivo para divulgação/vendas de produtos.
